@@ -1,0 +1,46 @@
+Jutiapa
+Moyuta
+Adelanto
+Progreso
+Jalpatagua
+Quesada
+Mita
+Yupiltepeque
+Comapa
+SCMita
+AguaBlanca
+Atescatempa
+Zapotitlan
+Jerez
+SJAcatempa
+#
+Jutiapa Quesada 17
+Jutiapa Adelanto 5
+Jutiapa Progreso 10
+Jutiapa Yupiltepeque 8
+Jutiapa SCMita 20
+Jutiapa Mita 18
+Jutiapa Comapa 12
+Adelanto Yupiltepeque 7
+Adelanto Zapotitlan 8
+Comapa Adelanto 12
+Jutiapa Jalpatagua 22
+Yupiltepeque Atescatempa 13
+Zapotitlan Jerez 16
+Atescatempa Jerez 16
+Mita Atescatempa 15
+Moyuta Jalpatagua 5
+Yupiltepeque Jerez 8
+Yupiltepeque Zapotitlan 13
+Comapa Zapotitlan 12
+SCMita AguaBlanca 16
+Mita AguaBlanca 18
+Jalpatagua Conguaco 17
+Jalpatagua Comapa 20
+Conguaco Moyuta 23
+Moyuta Pasaco 21
+Progreso SCMita 14
+Quesada SJAcatempa 20
+SJAcatempa Jalpatagua 24
+$
+Jutiapa Yupiltepeque
